@@ -1,0 +1,3 @@
+Haarcascade method having lower accuracy to detect face . So i have done this project to detect face using inbult face detection data
+available in opencv github link . It is having high accuracy compared to Haarcascade data. So in this project face is detected more 
+accurately with other two files which i have uploaded along with the code . 
