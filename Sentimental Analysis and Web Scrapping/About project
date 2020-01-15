@@ -1,4 +1,4 @@
-This project is about downloading latest 20000 tweets which having a unique word (DONALD TRUMP in this code) from twitter and analysing 
+This project is about downloading latest 200 tweets which having a unique word (DONALD TRUMP in this code) from twitter and analysing 
 sentiment of each tweet and sotrting as positive negative and neutral using Sentimental analysis. For using twitter we have to get our 
 own consumer_key,consumer_secret,access_token,access_token_secret from twitter . This project is mainly based on Web-scrapping and 
 Sentimental Analysis
