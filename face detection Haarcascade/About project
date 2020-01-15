@@ -1,0 +1,3 @@
+This is a simple project to detect faces and eyes live in Webcam . The detection is done with the help of Haarcascade files 
+for face and eyes . When we run the program , the webcam will turn on and if there is a face , a rectangle will drawn around face 
+and eyes.
