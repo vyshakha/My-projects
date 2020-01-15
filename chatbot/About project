@@ -3,4 +3,5 @@ I have also added wikipedia library so that we can ask about any one or anything
 an overview about that persion (ex: Who is Obama ).
 Unlike questions we can ask for what is the time, date ,day and other questions we daily ask to someone.
 I have uploaded two projects , one with Tkider and other without Tkinder . The Tkinder is used to get a good UI for the user
-so that one without any programming knowlege can also use the chatbot.
+so that one without any programming knowledge can also use the chatbot. Also i have separately save all the lists needed for sorting the
+sentence using NLP tools. It is named as listing.py which is also uploaded along with the code
