@@ -5,10 +5,10 @@ from textblob import TextBlob
 
 class TwitterClient(object):
         def __init__(self):
-                consumer_key='uC0tXxcQVMK8hhrsMPLz1GCsB'
-                consumer_secret='yz1D98UfUiRpfH7xoVPw1CrbKChoSIq9hfBwokRJfVDTKbDxmP'
-                access_token='733916072160567296-RNzRkvvc5sEEUocYu93up7uHJnXcmXr'
-                access_token_secret='gy8Q4paxeTZkvlu01JwGO91C2SofYFOXtdO4bgjWivM4m'
+                consumer_key=''
+                consumer_secret=''
+                access_token=''
+                access_token_secret=''
 
                 try :
                         self.auth=OAuthHandler(consumer_key,consumer_secret)
