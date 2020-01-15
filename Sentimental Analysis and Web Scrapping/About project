@@ -2,3 +2,4 @@ This project is about downloading latest 200 tweets which having a unique word (
 sentiment of each tweet and sotrting as positive negative and neutral using Sentimental analysis. For using twitter we have to get our 
 own consumer_key,consumer_secret,access_token,access_token_secret from twitter . This project is mainly based on Web-scrapping and 
 Sentimental Analysis
+The output will be sorted tweets and percentage of each sentiment
