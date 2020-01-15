@@ -1,0 +1,5 @@
+The aim of the project is to detect the dogs and cats from an input image . The coding is done with Tensorflow and keras  .
+The neural network is a CNN(convolutional neural network ) having 8 layers in which six are hidden layers .
+Output layer has two nodes (Cat or Dog ). The number of nodes in hidden layer varies from 32 to 128 for accurate image detection . 
+The training data was downloaded from internet consiting of 60,000 labelled images of dogs and cats.
+Since the dataset is huge (About 1.5gb ), i have not uploaded the image datasets .But i have uploaded trained model along with the code.
