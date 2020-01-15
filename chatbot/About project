@@ -1,0 +1,4 @@
+This project is about a simple chatbot . We can talk casually like name , age , or any other questions and it will replay. 
+I have also added wikipedia library so that we can ask about any one or anything. It will get data from wikipedia and will give
+an overview about that persion (ex: Who is Obama ).
+Unlike questions we can ask for what is the time, date ,day and other questions we daily ask to someone.
