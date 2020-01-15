@@ -2,3 +2,5 @@ This project is about a simple chatbot . We can talk casually like name , age , 
 I have also added wikipedia library so that we can ask about any one or anything. It will get data from wikipedia and will give
 an overview about that persion (ex: Who is Obama ).
 Unlike questions we can ask for what is the time, date ,day and other questions we daily ask to someone.
+I have uploaded two projects , one with Tkider and other without Tkinder . The Tkinder is used to get a good UI for the user
+so that one without any programming knowlege can also use the chatbot.
